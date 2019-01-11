@@ -8,6 +8,4 @@
   array
 end
 
-
-
-puts "available"
+puts 
