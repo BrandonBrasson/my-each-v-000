@@ -7,3 +7,7 @@
   end
   array
 end
+
+
+
+puts "available"
